@@ -3,7 +3,7 @@
 A **modern, responsive, persistent** task manager built with React + Vite.  
 Create, edit, delete, filter, search, and save tasks automatically in your browser.
 
-🔗 **Live Demo**: [your-app.pages.dev](#) *(replace with your Cloudflare URL)*
+🔗 **Live Demo**: [https://functional-to-do-list-app.pages.dev/](#) 
 
 ---
 
